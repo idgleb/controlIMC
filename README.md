@@ -6,7 +6,6 @@
 ![control IMC](https://github.com/user-attachments/assets/e9a028d9-7752-40b0-b55c-08d12e195e3c)
 
 
-![Banner](https://via.placeholder.com/1200x200.png?text=controlIMC+-+Tu+Calculadora+de+IMC+para+Android)  
 **📱 Una aplicación Android para calcular tu Índice de Masa Corporal (IMC) y obtener recomendaciones personalizadas.**
 
 ## ✨ Descripción
