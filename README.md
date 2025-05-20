@@ -24,15 +24,6 @@
 - 🔄 **Recalcular**: Regresa fácilmente a la pantalla principal para nuevos cálculos.
 
 ---
-
-
-
-| Pantalla Principal | Resultados IMC |
-|--------------------|----------------|
-| ![Pantalla Principal](https://via.placeholder.com/300x600.png?text=Pantalla+Principal) | ![Resultados](https://via.placeholder.com/300x600.png?text=Resultados+IMC) |
-
-> ℹ️ *Sustituye los placeholders con capturas reales de la app para un mejor impacto visual.*
-
 ---
 
 ## 🛠️ Requisitos
